@@ -1,0 +1,10 @@
+{
+    "nombre":"Persona Ejemplo",
+    "edad":30,
+    "estudiante": "true",
+    "residencia":{
+        "direccion":"Calle Ficticia 123",
+        "ciudad":"Ciudad Ejemplo"
+    },
+    "telefonos":["0000000001","0000000002"]
+}

@@ -1,0 +1,43 @@
+{
+    "biblioteca": [
+        {
+            "titulo": "Primeros pasos con HTML, CSS y JavaScript",
+            "editorial": "Editorial Ficticia Aurora",
+            "edicion": "3",
+            "isbn": "000-0-00-000001-0",
+            "autores": {
+                "autor principal": "Ana Ejemplo",
+                "autor secundario": "",
+                "autor terciario": ""
+            },
+            "codigo sena": ["000000000001"],
+            "descripcion": "Libro inventado para practicar: fundamentos de páginas web."
+        },
+        {
+            "titulo": "Anatomía para principiantes",
+            "editorial": "Editorial Ficticia Brújula",
+            "edicion": "2",
+            "isbn": "000-0-00-000002-0",
+            "autores": {
+                "autor principal": "Bruno Prueba",
+                "autor secundario": "Carla Muestra",
+                "autor terciario": "Darío Modelo"
+            },
+            "codigo sena": ["000000000002"],
+            "descripcion": "Libro inventado para practicar: descripción de los sistemas del cuerpo humano."
+        },
+        {
+            "titulo": "Bases de datos, normalización y SQL desde cero",
+            "editorial": "Editorial Ficticia Cometa",
+            "edicion": "1",
+            "isbn": "000-0-00-000003-0",
+            "autores": {
+                "autor principal": "Elena Demo",
+                "autor secundario": "Fabio Ensayo",
+                "autor terciario": "Gina Simulada"
+            },
+            "codigo sena": ["000000000003"],
+            "descripcion": "Libro inventado para practicar: introducción a las bases de datos y al lenguaje SQL."
+        }
+    ]
+}
