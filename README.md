@@ -95,7 +95,7 @@ Sintaxis y estructuras de control · Funciones · Formularios y DOM · Programac
 - [23. Funciones Declarativas](Cap.1.%20Introducci%C3%B3n_Javascript/ex_23_Funciones_Declarativas)
 - [24. Funciones Parámetros](Cap.1.%20Introducci%C3%B3n_Javascript/ex_24_Funciones_Par%C3%A1metros)
 - [25. Funciones Return](Cap.1.%20Introducci%C3%B3n_Javascript/ex_25_Funciones_Return)
-- [26. POO Objetos](Cap.1.%20Introducci%C3%B3n_Javascript/ex_26_POO_Objetos)
+- [26. POO Objetos](Cap.1.%20Introducci%C3%B3n_Javascript/ex_26_POO_Objetos) · [Teoría: pilares de la POO](Cap.1.%20Introducci%C3%B3n_Javascript/ex_26_POO_Objetos/Pilares_POO.md)
 - [27. POO Clases](Cap.1.%20Introducci%C3%B3n_Javascript/ex_27_POO_Clases)
 - [28. POO Clase Date](Cap.1.%20Introducci%C3%B3n_Javascript/ex_28_POO_Clase_Date)
 
@@ -126,7 +126,7 @@ Sintaxis y estructuras de control · Funciones · Formularios y DOM · Programac
 - [Teoría: paradigmas de programación y bases de la POO](Cap.3.%20POO_Javascript/Paradigmas_de_Programacion.md)
 - [1. Prototipo](Cap.3.%20POO_Javascript/ex_01_Prototipo)
 - [2. Prototipos Objetos](Cap.3.%20POO_Javascript/ex_02_Prototipos_Objetos)
-- [3. Clases Definición](Cap.3.%20POO_Javascript/ex_03_Clases_Definici%C3%B3n)
+- [3. Clases Definición](Cap.3.%20POO_Javascript/ex_03_Clases_Definici%C3%B3n) · [Teoría: definición de clases](Cap.3.%20POO_Javascript/ex_03_Clases_Definici%C3%B3n/Clases_Definicion.md)
 - [4. Herencia SubClases](Cap.3.%20POO_Javascript/ex_04_Herencia_SubClases)
 - [5. Herencia Métodos](Cap.3.%20POO_Javascript/ex_05_Herencia_M%C3%A9todos)
 - [6. Práctica Herencia](Cap.3.%20POO_Javascript/ex_06_Pr%C3%A1ctica_Herencia)
@@ -135,7 +135,7 @@ Sintaxis y estructuras de control · Funciones · Formularios y DOM · Programac
 
 ### Cap. 4. JSON
 
-- [Teoría: rutas en un proyecto web (PDF)](Cap.4.%20JSON/Rutas%20Teor%C3%ADa/Rutas%20en%20un%20proyecto%20web.pdf)
+- [Teoría: rutas en un proyecto web](Cap.4.%20JSON/Rutas%20Teor%C3%ADa/Rutas_en_un_proyecto_web.md)
 - [1. Persona](Cap.4.%20JSON/ex_01_Persona)
 - [2. Acceder Copiando JSON](Cap.4.%20JSON/ex_02_Acceder_Copiando_JSON)
 - [3. Acceder JSON](Cap.4.%20JSON/ex_03_Acceder_JSON)
@@ -150,7 +150,7 @@ Sintaxis y estructuras de control · Funciones · Formularios y DOM · Programac
 
 - [1. Click Mouseover](Cap.5.%20Eventos/ex_01_Click_Mouseover)
 - [2. Prevent Default](Cap.5.%20Eventos/ex_02_Prevent_Default)
-- [3. Keypress Keydown Keyup](Cap.5.%20Eventos/ex_03_Keypress_Keydown_Keyup)
+- [3. Keypress Keydown Keyup](Cap.5.%20Eventos/ex_03_Keypress_Keydown_Keyup) · [Teoría: código ASCII](Cap.5.%20Eventos/ex_03_Keypress_Keydown_Keyup/Codigo_ASCII.md)
 - [4. Mousemove Mouseover Mouseout](Cap.5.%20Eventos/ex_04_Mousemove_Mouseover_Mouseout)
 - [5. Mouse Trajectory](Cap.5.%20Eventos/ex_05_Mouse_Trajectory)
 - [6. Events Real Time](Cap.5.%20Eventos/ex_06_Events_Real_Time)
